@@ -1,5 +1,5 @@
 # Competo
-Another easy, tactical and funny game for your browser.
+Another easy, tactical and funny game for your browser. Click [here](https://christopher22.github.io/Competo/) to play.
 
 ## The game
 Two players place their six pawns in a centered and rotated by 90 degrees row on the board. One of them starts, then they perform alternately one of the following moves. At no point, two pawns may be on a single field; to such constellations leading moves are not valid.
@@ -12,6 +12,7 @@ The winner is the player who has placed as first all its six pawns on the opposi
 
 ##Authors
 Concept by Alexander Gerhards, Lisanne Goasel and Christopher Gundler
+
 Realization by Christopher Gundler (<c.gundler@mail.de>)
 
 ##License
